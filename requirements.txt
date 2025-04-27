@@ -1,0 +1,9 @@
+spacy
+boto3
+plyer
+ffmpeg-python
+tqdm
+whisper
+smtplib
+platform
+subprocess
